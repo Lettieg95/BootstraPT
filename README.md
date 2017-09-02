@@ -1,3 +1,2 @@
 # basicportfolio1
-
-This is my basic portfolio page
+This is my responsive example
